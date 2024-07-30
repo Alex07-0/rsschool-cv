@@ -35,3 +35,10 @@
       font: 14px/1.5 sans-serif;
     }
     
+    
+    .container {
+      display: flex;
+      justify-content: space-around;
+      font: 18px/1.5 sans-serif;
+    }
+    
