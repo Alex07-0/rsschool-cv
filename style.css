@@ -1,0 +1,23 @@
+
+      .container1 {
+        display: flex;
+        justify-content: space-between;
+        font: 26px/1.5 sans-serif;
+      }
+      
+
+      
+        .container2 {
+          display: flex;
+          justify-content: center;
+          font: 26px/1.5 sans-serif;
+        }
+        
+
+        
+        .container3 {
+          display: flex;
+          justify-content: center;
+          font: 16px/1.5 sans-serif;
+        }
+        
